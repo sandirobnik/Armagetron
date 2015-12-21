@@ -1,0 +1,9 @@
+c:\users\sandi\documents\visual studio 2013\Projects\KPO_Vaja_01\KPO_Vaja_01\bin\Debug\KPO_Vaja_01.exe.config
+c:\users\sandi\documents\visual studio 2013\Projects\KPO_Vaja_01\KPO_Vaja_01\bin\Debug\KPO_Vaja_01.exe
+c:\users\sandi\documents\visual studio 2013\Projects\KPO_Vaja_01\KPO_Vaja_01\bin\Debug\KPO_Vaja_01.pdb
+c:\users\sandi\documents\visual studio 2013\Projects\KPO_Vaja_01\KPO_Vaja_01\obj\Debug\KPO_Vaja_01.csprojResolveAssemblyReference.cache
+c:\users\sandi\documents\visual studio 2013\Projects\KPO_Vaja_01\KPO_Vaja_01\obj\Debug\KPO_Vaja_01.Form1.resources
+c:\users\sandi\documents\visual studio 2013\Projects\KPO_Vaja_01\KPO_Vaja_01\obj\Debug\KPO_Vaja_01.Properties.Resources.resources
+c:\users\sandi\documents\visual studio 2013\Projects\KPO_Vaja_01\KPO_Vaja_01\obj\Debug\KPO_Vaja_01.csproj.GenerateResource.Cache
+c:\users\sandi\documents\visual studio 2013\Projects\KPO_Vaja_01\KPO_Vaja_01\obj\Debug\KPO_Vaja_01.exe
+c:\users\sandi\documents\visual studio 2013\Projects\KPO_Vaja_01\KPO_Vaja_01\obj\Debug\KPO_Vaja_01.pdb

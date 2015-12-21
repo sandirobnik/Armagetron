@@ -1,0 +1,13 @@
+C:\Users\Sandi\Documents\Visual Studio 2015\Projects\Armagetron\KPO_Vaja_01\bin\Release\KPO_Vaja_01.exe.config
+C:\Users\Sandi\Documents\Visual Studio 2015\Projects\Armagetron\KPO_Vaja_01\bin\Release\KPO_Vaja_01.exe
+C:\Users\Sandi\Documents\Visual Studio 2015\Projects\Armagetron\KPO_Vaja_01\bin\Release\KPO_Vaja_01.pdb
+C:\Users\Sandi\Documents\Visual Studio 2015\Projects\Armagetron\KPO_Vaja_01\obj\Release\Armagetron.csprojResolveAssemblyReference.cache
+C:\Users\Sandi\Documents\Visual Studio 2015\Projects\Armagetron\KPO_Vaja_01\obj\Release\KpoVaja01.MainGameScreen.resources
+C:\Users\Sandi\Documents\Visual Studio 2015\Projects\Armagetron\KPO_Vaja_01\obj\Release\KpoVaja01.Properties.Resources.resources
+C:\Users\Sandi\Documents\Visual Studio 2015\Projects\Armagetron\KPO_Vaja_01\obj\Release\KpoVaja01.WelcomeScreen.resources
+C:\Users\Sandi\Documents\Visual Studio 2015\Projects\Armagetron\KPO_Vaja_01\obj\Release\Armagetron.csproj.GenerateResource.Cache
+C:\Users\Sandi\Documents\Visual Studio 2015\Projects\Armagetron\KPO_Vaja_01\obj\Release\KPO_Vaja_01.exe
+C:\Users\Sandi\Documents\Visual Studio 2015\Projects\Armagetron\KPO_Vaja_01\obj\Release\KPO_Vaja_01.pdb
+C:\Users\Sandi\Documents\Visual Studio 2015\Projects\Armagetron\Armagetron\bin\Release\KPO_Vaja_01.exe.config
+C:\Users\Sandi\Documents\Visual Studio 2015\Projects\Armagetron\Armagetron\obj\Release\KPO_Vaja_01.exe
+C:\Users\Sandi\Documents\Visual Studio 2015\Projects\Armagetron\Armagetron\obj\Release\KPO_Vaja_01.pdb
